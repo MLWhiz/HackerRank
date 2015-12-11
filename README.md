@@ -1,3 +1,2 @@
 # HackerRank
-Hackerrank Codes for various competitions till 
-12 dec 2015
+Hackerrank Accepted Codes for various competitions till 12 Dec 2015
